@@ -1,0 +1,5 @@
+2024-05-26 17:39:42.1716725382 | root | DEBUG | type(subclass)=<class 'type'> subclass=<class 'BaseExceptionGroup'>
+2024-05-26 17:39:42.1716725382 | root | DEBUG | type(subclass)=<class 'type'> subclass=<class 'Exception'>
+2024-05-26 17:39:42.1716725382 | root | DEBUG | type(subclass)=<class 'type'> subclass=<class 'GeneratorExit'>
+2024-05-26 17:39:42.1716725382 | root | DEBUG | type(subclass)=<class 'type'> subclass=<class 'KeyboardInterrupt'>
+2024-05-26 17:39:42.1716725382 | root | DEBUG | type(subclass)=<class 'type'> subclass=<class 'SystemExit'>
